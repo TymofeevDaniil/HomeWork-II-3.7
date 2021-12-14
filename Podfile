@@ -7,5 +7,6 @@ target 'HomeWork-II-3.7' do
 
   # Pods for HomeWork-II-3.7
 	pod 'RxSwift'
+	pod 'RxCocoa'
 
 end
